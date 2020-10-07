@@ -1,0 +1,32 @@
+Árgyelán Márk A csoport
+
+
+1.a Inline és blokk-szintű elemek tulajdonságai:
+-Beágyazott elemek 
+-soron belül oda kerül ahova beírtuk. pl:a,img
+
+1.b Blokk szintű elemek:
+-mindig új sort kezdenek pl: h1-h6 ig,
+-elfoglalja az egész sort
+
+Inline:<p> egy spam inline elem soron belül /L/P> mindig ujsort kezd.
+
+2.Képermyő újratöltés (frissítés) eleme:
+- <meta http-equiv='refresh' content='5' />
+
+3.Egy p-elemnek adj piros háttérszínt inline stílussal:
+- <div style='background-color:red />
+
+4.A weboldal szerzője Te vagy. Hogyan tudod jelölni a HTML-állományban?
+-<meta name Árgyelán Márk />
+
+5.A következő képet szeretnénk elérni az index.html-ből. Egészítsd ki:
+<img src='../../
+
+6. +1
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+</body>
+</html>
